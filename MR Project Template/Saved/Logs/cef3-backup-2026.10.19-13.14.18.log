@@ -1,0 +1,38 @@
+[48652:31212:1019/171519.804:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[48652:31212:1019/171519.855:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[51544:8368:1019/171523.419:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E5C3BD0DBD029BBF3FE796CD3C3CDA76 will be ignored
+[48652:44964:1019/171526.214:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/171526.468:ERROR:device_event_log_impl.cc(196)] [17:15:26.452] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/172553.813:ERROR:device_event_log_impl.cc(196)] [17:25:53.768] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[48652:31212:1019/172553.813:ERROR:device_event_log_impl.cc(196)] [17:25:53.769] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[48652:31212:1019/172553.813:ERROR:device_event_log_impl.cc(196)] [17:25:53.769] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[48652:31212:1019/172553.813:ERROR:device_event_log_impl.cc(196)] [17:25:53.769] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[48652:31212:1019/172553.813:ERROR:device_event_log_impl.cc(196)] [17:25:53.769] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[48652:31212:1019/172707.801:ERROR:device_event_log_impl.cc(196)] [17:27:07.786] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:44964:1019/172713.653:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/185701.116:ERROR:device_event_log_impl.cc(196)] [18:57:01.051] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:44964:1019/185701.362:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/190450.525:ERROR:device_event_log_impl.cc(196)] [19:04:50.521] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/191229.960:ERROR:device_event_log_impl.cc(196)] [19:12:29.934] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:44964:1019/191332.037:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/191843.689:ERROR:device_event_log_impl.cc(196)] [19:18:43.498] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/191932.294:ERROR:device_event_log_impl.cc(196)] [19:19:32.281] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:44964:1019/191943.627:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/192137.224:ERROR:device_event_log_impl.cc(196)] [19:21:37.149] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:44964:1019/192237.915:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/192513.050:ERROR:device_event_log_impl.cc(196)] [19:25:13.038] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:44964:1019/192618.942:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/192939.092:ERROR:device_event_log_impl.cc(196)] [19:29:39.085] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/193029.150:ERROR:device_event_log_impl.cc(196)] [19:30:29.127] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:44964:1019/193042.859:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/194013.005:ERROR:device_event_log_impl.cc(196)] [19:40:12.997] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/194013.012:ERROR:device_event_log_impl.cc(196)] [19:40:13.005] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[48652:31212:1019/195233.265:ERROR:device_event_log_impl.cc(196)] [19:52:33.174] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/195340.069:ERROR:device_event_log_impl.cc(196)] [19:53:40.060] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/195341.429:ERROR:device_event_log_impl.cc(196)] [19:53:41.387] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/200513.080:ERROR:device_event_log_impl.cc(196)] [20:05:12.927] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:44964:1019/200526.428:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:44964:1019/202640.314:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:44964:1019/210810.561:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48652:31212:1019/210817.541:ERROR:device_event_log_impl.cc(196)] [21:08:17.536] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48652:31212:1019/211418.792:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

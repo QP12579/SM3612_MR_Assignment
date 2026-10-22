@@ -1,0 +1,92 @@
+[49436:48480:1019/160017.135:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[49436:48480:1019/160017.191:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9932:48428:1019/160019.618:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F0A4D5B876FDD757EAEE9C3C38F7D5DE will be ignored
+[49436:48480:1019/160022.697:ERROR:device_event_log_impl.cc(196)] [16:00:22.683] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[49436:34780:1019/160023.600:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[49436:48480:1019/160047.443:ERROR:device_event_log_impl.cc(196)] [16:00:47.135] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[49436:34780:1019/160103.802:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[49436:34780:1019/160302.527:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[49436:34780:1019/160649.996:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48612:47160:1019/160730.811:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[48612:47160:1019/160730.859:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40996:42328:1019/160733.831:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ED8A4898BA5F03DAC1AA3692941F3C7B will be ignored
+[48612:48444:1019/160737.716:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[48612:47160:1019/160738.495:ERROR:device_event_log_impl.cc(196)] [16:07:38.166] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48824:48060:1019/160747.182:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-5298C76400B666B80188B271A439A186 will be ignored
+[48612:47160:1019/161056.665:ERROR:device_event_log_impl.cc(196)] [16:10:56.660] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[49436:48480:1019/161056.860:ERROR:device_event_log_impl.cc(196)] [16:10:56.660] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48612:48444:1019/161201.002:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[49436:34780:1019/161203.885:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[53048:15232:1019/161257.398:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[53048:15232:1019/161257.455:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[51392:53156:1019/161300.197:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2E690DF06F06318B680AC37793139BCA will be ignored
+[52404:30260:1019/161300.837:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[52404:42100:1019/161300.849:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[52404:42100:1019/161300.850:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[52404:42100:1019/161300.850:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38732:22292:1019/161300.870:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[38732:22292:1019/161300.870:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[38732:22292:1019/161300.871:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1098800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1099000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1099800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[38732:22292:1019/161300.872:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1098800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1099000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1099800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1098800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1099000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[52404:42100:1019/161300.872:WARNING:stun_port.cc(442)] Port[1099800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53048:42348:1019/161301.045:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[53048:15232:1019/161301.089:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[53048:15232:1019/161301.089:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[53048:15232:1019/161301.089:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[53048:15232:1019/161301.089:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[53048:42348:1019/161301.124:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[43968:51196:1019/161301.278:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[43968:43652:1019/161301.302:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[43968:43652:1019/161301.302:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[43968:43652:1019/161301.302:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38732:22292:1019/161301.314:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[38732:22292:1019/161301.314:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[38732:22292:1019/161301.314:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[38732:22292:1019/161301.314:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[f1b800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[f1bc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[1284800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[f1b800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[f1bc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[1284800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[f1b800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[f1bc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:43652:1019/161301.315:WARNING:stun_port.cc(442)] Port[1284800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43968:51196:1019/161302.727:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[53048:15232:1019/161302.957:ERROR:device_event_log_impl.cc(196)] [16:13:02.942] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[53048:42348:1019/161303.847:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[43124:52320:1019/161511.864:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[43124:52320:1019/161747.093:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[53048:15232:1019/161809.096:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[51868:23036:1019/161831.270:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[51868:23036:1019/161831.317:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[51716:40996:1019/161835.096:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-43D2372F75F3B96BE1672675F6599374 will be ignored
+[51868:52164:1019/161838.121:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[51868:23036:1019/161838.183:ERROR:device_event_log_impl.cc(196)] [16:18:38.167] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[51868:23036:1019/161855.419:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[49436:48480:1019/161908.223:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[48612:47160:1019/161909.909:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

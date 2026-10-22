@@ -1,0 +1,17 @@
+[7576:20200:1019/141639.315:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7576:20200:1019/141639.366:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26468:51036:1019/141642.519:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3689779375E00B8A6DF7902E52E3683D will be ignored
+[7576:13348:1019/141645.699:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7576:20200:1019/141647.546:ERROR:device_event_log_impl.cc(196)] [14:16:47.536] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7576:20200:1019/141744.366:ERROR:device_event_log_impl.cc(196)] [14:17:44.362] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7576:13348:1019/141846.044:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7576:20200:1019/141929.861:ERROR:device_event_log_impl.cc(196)] [14:19:29.624] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[7576:20200:1019/141929.861:ERROR:device_event_log_impl.cc(196)] [14:19:29.625] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[7576:20200:1019/142042.606:ERROR:device_event_log_impl.cc(196)] [14:20:42.548] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[38420:6508:1019/142146.770:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-22B8C367A4F1966B66D0866C55E626C6 will be ignored
+[7576:20200:1019/142715.840:ERROR:device_event_log_impl.cc(196)] [14:27:15.829] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7576:13348:1019/142815.390:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38956:47816:1019/144316.826:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-3F1C98865B343C165F3C311932441DE6 will be ignored
+[7576:20200:1019/144751.015:ERROR:device_event_log_impl.cc(196)] [14:47:50.901] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7576:13348:1019/144852.723:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7576:20200:1019/145240.156:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

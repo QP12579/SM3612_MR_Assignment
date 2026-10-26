@@ -1,3 +1,42 @@
-2026/10/19-21:14:29.464 a378 Reusing MANIFEST D:\UEProject_SM3612_57_2026\#W8_FirstPerson_VR_Template_withAssets\UE57_VR_Template_FirstPerson_withAssets_WK8\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/19-21:14:29.469 a378 Recovering log #34
-2026/10/19-21:14:29.471 a378 Reusing old log D:\UEProject_SM3612_57_2026\#W8_FirstPerson_VR_Template_withAssets\UE57_VR_Template_FirstPerson_withAssets_WK8\Saved\webcache_6613_1\Default\Local Storage\leveldb/000034.log 
+2026/10/24-01:36:24.585 c744 Reusing MANIFEST C:\Users\Entertainment\Downloads\UE57_VR_Template_FirstPerson_withAssets_WK8\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/24-01:36:24.600 c744 Recovering log #34
+2026/10/24-01:36:24.606 c744 Reusing old log C:\Users\Entertainment\Downloads\UE57_VR_Template_FirstPerson_withAssets_WK8\Saved\webcache_6613_1\Default\Local Storage\leveldb/000034.log 
+2026/10/24-01:50:26.562 11334 Level-0 table #37: started
+2026/10/24-01:50:26.569 11334 Level-0 table #37: 65508 bytes OK
+2026/10/24-01:50:26.570 11334 Delete type=0 #34
+2026/10/24-01:50:26.571 11334 Compacting 4@0 + 1@1 files
+2026/10/24-01:50:26.575 11334 Generated table #38@0: 8 keys, 28610 bytes
+2026/10/24-01:50:26.575 11334 Compacted 4@0 + 1@1 files => 28610 bytes
+2026/10/24-01:50:26.575 11334 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/24-01:50:26.576 11334 Delete type=2 #26
+2026/10/24-01:50:26.576 11334 Delete type=2 #28
+2026/10/24-01:50:26.576 11334 Delete type=2 #30
+2026/10/24-01:50:26.576 11334 Delete type=2 #33
+2026/10/24-01:50:26.576 11334 Delete type=2 #37
+2026/10/24-01:53:26.547 11334 Level-0 table #40: started
+2026/10/24-01:53:26.558 11334 Level-0 table #40: 87194 bytes OK
+2026/10/24-01:53:26.559 11334 Delete type=0 #36
+2026/10/24-01:57:04.819 11334 Level-0 table #42: started
+2026/10/24-01:57:04.831 11334 Level-0 table #42: 66047 bytes OK
+2026/10/24-01:57:04.832 11334 Delete type=0 #39
+2026/10/24-01:59:53.146 11334 Level-0 table #44: started
+2026/10/24-01:59:53.152 11334 Level-0 table #44: 65803 bytes OK
+2026/10/24-01:59:53.153 11334 Delete type=0 #41
+2026/10/24-02:00:07.057 11334 Level-0 table #46: started
+2026/10/24-02:00:07.070 11334 Level-0 table #46: 66343 bytes OK
+2026/10/24-02:00:07.072 11334 Delete type=0 #43
+2026/10/24-02:00:07.072 11334 Compacting 4@0 + 1@1 files
+2026/10/24-02:00:07.076 11334 Generated table #47@0: 8 keys, 37022 bytes
+2026/10/24-02:00:07.076 11334 Compacted 4@0 + 1@1 files => 37022 bytes
+2026/10/24-02:00:07.077 11334 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/24-02:00:07.078 11334 Delete type=2 #38
+2026/10/24-02:00:07.078 11334 Delete type=2 #40
+2026/10/24-02:00:07.078 11334 Delete type=2 #42
+2026/10/24-02:00:07.078 11334 Delete type=2 #44
+2026/10/24-02:00:07.078 11334 Delete type=2 #46
+2026/10/24-02:01:26.549 11334 Level-0 table #49: started
+2026/10/24-02:01:26.561 11334 Level-0 table #49: 68719 bytes OK
+2026/10/24-02:01:26.562 11334 Delete type=0 #45
+2026/10/24-02:04:35.672 11334 Level-0 table #51: started
+2026/10/24-02:04:35.679 11334 Level-0 table #51: 72811 bytes OK
+2026/10/24-02:04:35.680 11334 Delete type=0 #48

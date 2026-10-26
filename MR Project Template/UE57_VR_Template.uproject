@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "{8D9ED1A8-4AFA-C640-2179-3BB12A4069D8}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -15,35 +15,6 @@
 		{
 			"Name": "OpenXRHandTracking",
 			"Enabled": true
-		},
-		{
-			"Name": "OculusInteraction",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2372b714e0aa46ab85168aaf035e099a",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android",
-				"Linux"
-			]
-		},
-		{
-			"Name": "OculusXR",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8313d8d7e7cf4e03a33e79eb757bccba",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android",
-				"Linux"
-			]
-		},
-		{
-			"Name": "OculusPlatform",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/7ce814580ba341b4bb5865983fea9d31",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
 		}
 	],
 	"TargetPlatforms": [

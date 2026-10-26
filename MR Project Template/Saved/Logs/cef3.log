@@ -1,6 +1,181 @@
-[37964:9668:1019/222648.388:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[37964:9668:1019/222648.433:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[45380:4256:1019/222652.194:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DCD67062D08EFB3EAF6466A61A0C38B8 will be ignored
-[37964:48024:1019/222654.774:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[37964:9668:1019/222655.276:ERROR:device_event_log_impl.cc(196)] [22:26:55.260] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[37964:9668:1019/222742.835:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[66528:56900:1025/160913.286:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[66528:75004:1025/160913.410:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[66528:56900:1025/160913.438:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[66528:56900:1025/160918.654:ERROR:device_event_log_impl.cc(196)] [16:09:18.545] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[59524:71416:1025/160920.006:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2A7849FCD6FF2532EA67A27556FA5669 will be ignored
+[73900:66652:1025/160921.904:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[73900:67728:1025/160921.931:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[73900:67728:1025/160921.931:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[73900:67728:1025/160921.931:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[74472:9628:1025/160922.033:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160922.033:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160922.033:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[74472:9628:1025/160922.035:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb5c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb6c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb7400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb5c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb6c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb7400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb5c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb6c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73900:67728:1025/160922.035:WARNING:stun_port.cc(442)] Port[fb7400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[66528:73604:1025/160923.352:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[66528:56900:1025/160923.667:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[66528:56900:1025/160923.667:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[66528:56900:1025/160923.667:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[66528:56900:1025/160923.667:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[66528:73604:1025/160923.677:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[57460:71908:1025/160925.001:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[57460:75528:1025/160925.027:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[57460:75528:1025/160925.027:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[57460:75528:1025/160925.028:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[74472:9628:1025/160925.375:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160925.376:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160925.379:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160925.380:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160925.380:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160925.380:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160925.380:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[74472:9628:1025/160925.380:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[74472:9628:1025/160925.380:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[74472:9628:1025/160925.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[74472:9628:1025/160925.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[74472:9628:1025/160925.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[57460:75528:1025/160925.381:WARNING:stun_port.cc(442)] Port[144fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160925.381:WARNING:stun_port.cc(442)] Port[1678800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160925.381:WARNING:stun_port.cc(442)] Port[1679000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160925.381:WARNING:stun_port.cc(442)] Port[144fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160925.381:WARNING:stun_port.cc(442)] Port[1678800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160925.382:WARNING:stun_port.cc(442)] Port[1679000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160925.382:WARNING:stun_port.cc(442)] Port[144fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160925.382:WARNING:stun_port.cc(442)] Port[1678800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160925.382:WARNING:stun_port.cc(442)] Port[1679000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:71908:1025/160931.409:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[57460:71908:1025/160931.415:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[57460:75528:1025/160931.424:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[57460:75528:1025/160931.424:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[57460:75528:1025/160931.425:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[74472:9628:1025/160931.694:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160931.694:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160931.694:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[57460:75528:1025/160931.698:WARNING:stun_port.cc(442)] Port[1678000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[57460:75528:1025/160931.698:WARNING:stun_port.cc(442)] Port[1678400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[74472:9628:1025/160931.698:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[57460:75528:1025/160931.698:WARNING:stun_port.cc(442)] Port[f3fc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160931.698:WARNING:stun_port.cc(442)] Port[1678000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160931.699:WARNING:stun_port.cc(442)] Port[1678400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160931.699:WARNING:stun_port.cc(442)] Port[f3fc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160931.699:WARNING:stun_port.cc(442)] Port[1678000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160931.699:WARNING:stun_port.cc(442)] Port[1678400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[57460:75528:1025/160931.699:WARNING:stun_port.cc(442)] Port[f3fc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[73972:64016:1025/161136.890:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[51012:26316:1025/171330.099:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-1741BB337BB656195ECEC6A341306414 will be ignored
+[69544:71484:1025/171503.912:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-49B650D96CB7723D46C24B6C5FDAF1A4 will be ignored
+[66752:49692:1025/172702.533:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 10-12913273362213C8187896F7F3DA36E3 will be ignored
+[66528:73604:1025/172805.811:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,10]
+[66528:56900:1025/172805.885:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,10]
+[66528:56900:1025/172805.885:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,10]
+[66528:56900:1025/172805.885:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,10]
+[66528:56900:1025/172805.885:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,10]
+[66528:56900:1025/172805.887:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,13]
+[66528:56900:1025/172805.887:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,13]
+[66528:56900:1025/172805.887:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,13]
+[66528:56900:1025/172805.887:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,13]
+[66528:56900:1025/172807.458:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[66528:56900:1025/172807.458:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[17648:7176:1025/175359.387:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 13-A06D12E0E28E8ED72962ABDD0D59B782 will be ignored
+[66528:73604:1025/175423.754:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,10]
+[66528:56900:1025/175423.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,10]
+[66528:56900:1025/175423.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,10]
+[66528:56900:1025/175423.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,10]
+[66528:56900:1025/175423.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,10]
+[66528:56900:1025/175423.760:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,13]
+[66528:56900:1025/175423.760:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,13]
+[66528:56900:1025/175423.760:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,13]
+[66528:56900:1025/175423.760:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,13]
+[66528:56900:1025/175424.509:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[66528:56900:1025/175424.509:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[74472:9628:1025/175426.680:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
+[73972:74592:1025/181349.781:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[73972:74592:1025/181349.879:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[73972:74236:1025/181350.464:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[73972:61004:1025/181350.603:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[72912:62516:1025/193246.323:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 19-D491670B714911E780F4319AFC92E56B will be ignored
+[66528:73604:1025/193303.222:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,10]
+[66528:56900:1025/193303.277:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,10]
+[66528:56900:1025/193303.277:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,10]
+[66528:56900:1025/193303.277:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,10]
+[66528:56900:1025/193303.277:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,10]
+[66528:56900:1025/193303.278:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,13]
+[66528:56900:1025/193303.278:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,13]
+[66528:56900:1025/193303.278:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,13]
+[66528:56900:1025/193303.278:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,13]
+[66528:56900:1025/193304.054:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[66528:56900:1025/193304.054:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[14376:19060:1025/193337.683:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 1C-30732C2B08A0EA2CE683C4E28C0006A6 will be ignored
+[66528:73604:1025/193406.504:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,10]
+[66528:56900:1025/193406.511:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,10]
+[66528:56900:1025/193406.511:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,10]
+[66528:56900:1025/193406.511:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,10]
+[66528:56900:1025/193406.511:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,10]
+[66528:56900:1025/193406.512:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,13]
+[66528:56900:1025/193406.512:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,13]
+[66528:56900:1025/193406.513:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,13]
+[66528:56900:1025/193406.513:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,13]
+[73972:74592:1025/193407.943:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[66528:56900:1025/193409.279:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[66528:56900:1025/193409.279:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[63584:54672:1025/193513.800:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 1F-BAB2A10806CD929648410C7DEDC3B07C will be ignored
+[66528:73604:1025/193538.010:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[66528:56900:1025/193538.209:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[66528:56900:1025/193538.210:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[66528:56900:1025/193538.210:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[66528:56900:1025/193538.210:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[66528:56900:1025/193538.283:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,12]
+[66528:56900:1025/193538.283:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,12]
+[66528:56900:1025/193538.283:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,12]
+[66528:56900:1025/193538.283:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,12]
+[66528:56900:1025/193538.695:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[66528:56900:1025/193538.695:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[70968:70200:1025/215319.829:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 22-11462C2E706B7F714E6559D731C927EF will be ignored
+[66528:73604:1025/215356.479:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,10]
+[66528:56900:1025/215356.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,10]
+[66528:56900:1025/215356.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,10]
+[66528:56900:1025/215356.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,10]
+[66528:56900:1025/215356.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,10]
+[66528:56900:1025/215356.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,13]
+[66528:56900:1025/215356.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,13]
+[66528:56900:1025/215356.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,13]
+[66528:56900:1025/215356.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,13]
+[66528:56900:1025/215357.388:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[66528:56900:1025/215357.388:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[66528:56900:1025/230255.289:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

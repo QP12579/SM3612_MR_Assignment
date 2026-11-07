@@ -73,3 +73,33 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# 自動備份與崩潰日誌（有些舊版 UE 沒被 Saved/* 乾淨阻擋）
+Autosaves/
+Backup/
+CrashReportClient/
+
+# Unreal下載的過期或暫存安裝包（非常佔空間）
+FeaturePacks/
+Samples/
+
+# 機器學習 / 虛擬網格 (Nanite) 等新版 UE5 產生的本地快照
+.p4ignore
+DerivedDataCache/
+DataDrivenCV/
+
+# 外部 IDE（如 Rider 或 VS Code）自動產生的巨量快取
+.idea/
+.vscode/
+*.Visual Studio.*
+CompileSanityTest/
+
+# 常見的本地作業系統垃圾檔案（防止 Mac/Windows 互相干擾）
+Thumbs.db
+.DS_Store
+
+# 打包輸出的成品（有些自訂打包路徑會漏掉）
+/ArchivedBuilds/
+/Windows/
+/Mac/
+/Linux/
